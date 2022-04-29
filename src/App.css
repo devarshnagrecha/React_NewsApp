@@ -1,0 +1,148 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.bg{
+
+ background-image: url('./components/new12.jfif');
+ background-image: url('./components/new41.jpg');
+  
+}
+
+.exclude{
+  
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.devarsh{
+  font-weight: bold;
+  font-size: 50px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  margin: 40px;
+  color: white;
+}
+
+.devarsh-header{
+
+  background-image: url('./components/21dark.jpg');
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+}
+.devarsh-text{
+
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.nav-design{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.devarsh-subheader{
+  background-color: rgba(11, 11, 11, 0.507);
+  color: whitesmoke;
+}
+
+.body{
+
+  background-color:blue;
+}
+
+.wrapper
+{
+	padding-bottom: 40px;
+}
+
+.divider
+{
+	position: relative;
+	margin-top: 50px;
+	height: 1px;
+}
+
+.div-transparent:before
+{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 5%;
+	right: 5%;
+	width: 90%;
+	height: 1px;
+	background-image: linear-gradient(to right, transparent, rgb(48,49,51), transparent);
+}
+
+.div-dot:after
+{
+	content: "";
+	position: absolute;
+	z-index: 1;
+	top: -9px;
+	left: calc(50% - 9px);
+	width: 18px;
+	height: 18px;
+	background-color: goldenrod;
+	border: 1px solid rgb(48,49,51);
+	border-radius: 50%;
+	box-shadow: inset 0 0 0 2px white,
+					0 0 0 4px white;
+}
+
+.navbar-hover:hover{
+  color: rgb(119, 0, 255);
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: white;
+}
+.navbar-nav .nav-item.active .nav-link{
+  background-color: rgba(228, 188, 13, 0.767);
+  color: rgb(0, 0, 0);
+}
+
+.navbar-nav .nav-item:hover .nav-link {
+  background-color: rgba(228, 188, 13, 0.767);
+  color: rgb(0, 0, 0);
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+

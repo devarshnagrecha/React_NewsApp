@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Morgan Chalfant",
+            "title": "Biden takes aim at GOP for 'talking down' economic recovery | TheHill",
+            "description": "President Biden on Friday sharpened his attacks against Republicans on the economy, accusing them of “talking down” the economic recovery as he lauded the decline in unemployment and job growth during his first year in office.",
+            "url": "http://thehill.com/homenews/administration/588755-biden-takes-aim-at-gop-for-talking-down-economic-recovery",
+            "urlToImage": "https://thehill.com/sites/default/files/bidenjoe_122331_jn07.jpg",
+            "publishedAt": "2022-01-07T17:42:32Z",
+            "content": "President BidenJoe BidenBiden hopes for big jobs number on FridayJan. 6 brings Democrats, Cheneys together with GOP mostly absentEquilibrium/Sustainability Climate, democracy emergencies indivisible … [+4515 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "Jeff Mordock",
+            "title": "Biden shrugs off worst jobs report of his presidency; critics say he botched the economy",
+            "description": "President Biden on Friday shrugged off the worst jobs report of his presidency as the U.S. economy added less than half the number of jobs expected in December amid a massive surge in COVID-19 cases.",
+            "url": "https://www.washingtontimes.com/news/2022/jan/7/biden-shrugs-worst-jobs-report-his-presidency-crit/",
+            "urlToImage": "https://twt-thumbs.washtimes.com/media/image/2022/01/07/AP22007609876102_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61",
+            "publishedAt": "2022-01-07T13:29:00Z",
+            "content": "President Biden on Friday shrugged off the worst jobs report of his presidency as the U.S. economy added less than half the number of jobs expected in December amid a massive surge in COVID-19 cases.… [+3862 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Sebastian Pellejero",
+            "title": "Investors Brace for Slowing Corporate Bond Sales",
+            "description": "Traders are weighing the effects of expected interest-rate increases, less issuance by banks, forecasts for a strong economy and robust demand",
+            "url": "https://www.wsj.com/articles/investors-brace-for-slowing-corporate-bond-sales-11641523991?mod=hp_lead_pos4",
+            "urlToImage": "https://images.wsj.net/im-463377/social",
+            "publishedAt": "2022-01-07T10:30:00Z",
+            "content": "Investors expect a pandemic borrowing boom by U.S. companies will continue to cool in 2022. \r\nAnalysts at banks including Citigroup , Bank of America and Deutsche Bank are forecasting U.S. companies … [+279 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "9News Staff",
+            "title": "Research shows free RATs 'highly likely' to benefit economy",
+            "description": "<p>Research by an Australian university has revealed that the economic benefits of making rapid antigen tests free could outweigh the cost.</p>",
+            "url": "https://www.9news.com.au/national/coronavirus-testing-updates-free-rapid-antigen-tests-economically-beneficial-flinders-university-says/7e92ee35-2dcd-4a10-b86e-61cca76e3190",
+            "urlToImage": "https://imageresizer.static9.net.au/DxBqZoMm0KRXAmkLaHpfkJ1bRFo=/0x428:5286x3401/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F53815513-f1a3-43ef-8ee6-6627d8f37f85",
+            "publishedAt": "2022-01-06T23:49:41+00:00",
+            "content": "<p>Research by an Australian university has revealed that the economic benefits of making rapid antigen tests free could outweigh the cost.</p>"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Revuto Taps Deeper Into Subscription Economy With Dual Listing of Cardano-Native REVU Token | NextBigFuture.com",
+            "description": "While the subscription economy is growing at an unprecedented rate, consumers, primarily those with dozens of subscriptions, often end up spending the better",
+            "url": "https://www.nextbigfuture.com/2022/01/revuto-taps-deeper-into-subscription-economy-with-dual-listing-of-cardano-native-revu-token.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2022/01/image1.png",
+            "publishedAt": "2022-01-04T16:35:51Z",
+            "content": "While the subscription economy is growing at an unprecedented rate, consumers, primarily those with dozens of subscriptions, often end up spending the better part of their free time trying to manage … [+4161 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Business Essentials",
+            "description": "Stay up-to-date with the latest business trends and information on the Canadian economy, stock market and personal finance. Learn to save money, invest in the market, grow your wealth and advance your career with new skills.",
+            "url": "http://business.financialpost.com/category/personal-finance/business-essentials/",
+            "urlToImage": null,
+            "publishedAt": "2021-11-17T17:22:19.8301159Z",
+            "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2021 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "FP Economy",
+            "description": "Latest news on the economic system, inflation, gross domestic product (GDP), national debts and financial news, as well as coverage for health care, the sector plus more.",
+            "url": "http://business.financialpost.com/category/news/economy/",
+            "urlToImage": null,
+            "publishedAt": "2021-10-25T14:22:50.0348896Z",
+            "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2021 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Business Essentials",
+            "description": "Stay up-to-date with the latest business trends and information on the Canadian economy, stock market and personal finance. Learn to save money, invest in the market, grow your wealth and advance your career with new skills.",
+            "url": "https://financialpost.com/category/personal-finance/business-essentials/",
+            "urlToImage": null,
+            "publishedAt": "2021-10-25T14:22:31.3051754Z",
+            "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2021 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+        }
+    ]
+}

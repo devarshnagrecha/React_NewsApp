@@ -1,0 +1,18 @@
+<div className="nav-design">
+                                <h5 style={{ color: 'white', paddingLeft: '30px', paddingRight: '20px', paddingBottom: '10px', paddingTop: '10px', textAlign: 'center', lineHeight: '20px', margin: 'auto' }}>Country</h5>
+                            </div>
+
+                            <div>
+                                <select id="selectBox" onChange={this.change}>
+                                    <option value="ar">Argentina</option>
+                                    <option value="au">Australia</option>
+                                    <option value="at">Austria</option>
+                                    <option value="be">Belgium</option>
+                                    <option value="br">Brazil</option>
+                                    <option value="bg">Bulgaria</option>
+                                    <option value="ca">Canada</option>
+                                    <option value="cn">China</option>
+                                    <option value="cu">Cuba</option>
+                                    <option value="in">India</option>
+                                </select>
+                            </div>
